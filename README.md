@@ -1,7 +1,7 @@
 ### Hiya, I'm Robbie :3
 
 
-I'm student at the University of British Columbia pursuing a combined major in Computer Science and Physics.
+I'm a student at the University of British Columbia pursuing a combined major in Computer Science and Physics.
 
 Passionate about all things music, including music production and VST development. I also dabble in front-end and have a large collection of bear images.
 
