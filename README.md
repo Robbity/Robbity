@@ -1,4 +1,4 @@
-### Hiya, I'm Robbie
+### Hiya, I'm Robbie :3
 
 
 I'm student at the University of British Columbia pursuing a combined major in Computer Science and Physics.
