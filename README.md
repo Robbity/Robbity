@@ -3,7 +3,7 @@
 
 I'm a student at the University of British Columbia, currently pursuing a combined major in Computer Science and Physics.
 
-Passionate about coding and music, currently exploring VST development + music production. I also dabble in front-end and have a large collection of bear images.
+Passionate about coding and audio, currently exploring VST development + music production. I also dabble in front-end and have a large collection of bear images.
 
 
 
