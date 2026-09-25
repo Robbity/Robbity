@@ -1,9 +1,10 @@
 ### Hiya, I'm Robbie :3
 
+I'm a software engineer and UBC Computer Science & Physics graduate, currently working in technology consulting on software engineering projects.
 
-I'm a student at the University of British Columbia, currently pursuing a combined major in Computer Science and Physics.
+I mostly work across backend and full-stack development, with C#/.NET, Python, TypeScript, Go, cloud, APIs, and AI-enabled applications.
 
-Passionate about coding and audio, currently exploring VST development + music production. I also dabble in front-end and have a large collection of bear images.
+I have a large collection of bear images.
 
 
 
